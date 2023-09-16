@@ -1,0 +1,596 @@
+* body {
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  font-family: 'Syne', sans-serif;
+  font-size: 16px;
+  background-color: #FFFFFF;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 400px;
+  line-height: 24px;
+  color: black;
+}
+
+.elementor-widget-wrap.elementor-element-populated {
+  align-items: center;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.elementor-column-gap-default {
+  gap: 0px;
+}
+
+.elementor-159 .elementor-element.elementor-element-c357001>.elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.entry-header .has-text-align-center .header-footer-group {
+  padding: 0px;
+  display: none;
+}
+
+article#post-29 header.entry-header {
+
+  display: none;
+}
+
+label {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+
+
+cache {
+  height: 20px;
+}
+
+.pienso {
+  text-align: left;
+}
+
+
+div#pienso .elementor-text-editor {
+  text-align: left !important;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+}
+
+
+#d75d87f {
+  width: 193px;
+  height: 128px;
+}
+
+.hfe-menu-item .elementor-button {
+  width: 236px;
+  height: 80px;
+}
+
+/****** Page commander ***********/
+.allgout {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.lesgouts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.gouts img {
+  max-width: 100%;
+  height: auto;
+}
+
+.gout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 193px;
+  height: 128px;
+}
+
+.plus-moins {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 19px;
+  width: 31px;
+  height: 56px;
+  gap: 2px;
+}
+
+.buttoncommande {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+  height: 56px;
+  color: #ffffff;
+  background-color: #DC9F96;
+  font-size: 18px;
+  margin-left: 11px;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+}
+
+.zero {
+  width: 51px;
+  height: 56px;
+  background-color: #F2F2F2;
+  border-radius: 10px 0px 0px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenuzero {
+  font-size: 30px;
+  font-family: 'Syne', sans-serif;
+}
+
+.plus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #DC9F96;
+  width: 31px;
+  height: 28px;
+  border-radius: 0px 10px 0px 0px;
+  border-bottom: 1px solid white;
+  margin-bottom: -1px;
+
+}
+
+.moins {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #DC9F96;
+  width: 31px;
+  height: 28px;
+  border-radius: 0px 0px 10px 0px;
+  border-top: 1px solid white;
+  margin-top: -1px;
+}
+
+.quantite {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  display: flex;
+}
+
+.commander {
+  width: 198px;
+  height: 56px;
+  border-radius: 0px 0px 10px 0px;
+  margin-top: 20px;
+}
+
+
+#fraise {
+  background-image: url("http://planty.local/wp-content/uploads/2023/06/jeremy-bezanger-0QgbyZdhX7k-unsplash-1-1.png");
+  background-size: cover;
+}
+
+#pamplemousse {
+  background-image: url("http://planty.local/wp-content/uploads/2023/06/estudio-bloom-tOitjphtIXU-unsplash-1-1.png");
+  background-size: cover;
+}
+
+#framboise {
+  background-image: url("http://planty.local/wp-content/uploads/2023/06/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");
+  background-size: cover;
+
+}
+
+#citron {
+  background-image: url("http://planty.local/wp-content/uploads/2023/06/estudio-bloom-ezqnxsqUZ80-unsplash-1-1.png");
+  background-size: cover;
+}
+
+
+#Bfraise {
+  width: 393px;
+  height: 400px;
+}
+
+/* Personnalisation formulaire CF7 */
+
+.containerCf7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-color: none;
+}
+
+.wpcf7-form-control .has-spinner .wpcf7-submit{
+  display:flex;
+  align-items: center;
+}
+
+.cf7resp-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  border-right: 3px;
+}
+
+.cf7resp2 {
+  border-top: 2px solide white;
+}
+.input-label-spacing {
+  margin-top: 20px;
+}
+
+.tbody {
+  border: none;
+}
+
+th,
+td {
+  line-height: 1.4;
+  margin: 0;
+  overflow: visible;
+  padding: 30px;
+}
+
+
+form.wpcf7-form {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  color: #ffffff;
+}
+
+.wpcf7-not-valid-tip {
+  font-family: "Syne", Sans-serif;
+  font-style: italic;
+  font-size: 15px;
+  color: #ffffff;
+  text-align: left;
+}
+
+.cf7resp {
+  border-right: 1px solid;
+}
+
+.titre {
+  font-family: "Syne", Sans-serif;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 25px;
+}
+
+
+form.wpcf7-form label {
+  cursor: pointer;
+  font-family: "Syne", Sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+
+form.wpcf7-form input,
+form.wpcf7-form select,
+form.wpcf7-form textarea {
+  background: #FFFFFF;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 5px;
+}
+
+
+form.wpcf7-form input[type="submit"] {
+  padding: 1em;
+  box-shadow: none;
+  background: #E0B9B4;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 15px;
+  cursor: pointer;
+  width: 198px;
+  height: 55px;
+  margin: 0 auto;
+}
+
+.filet {
+  padding-bottom: 40px;
+}
+
+input[type="number"] {
+  align-items: right;
+}
+
+.containerformulaire {
+  display: flex;
+  justify-content: center;
+}
+
+form div>label {
+  margin-bottom: 7px;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+
+
+form div>textarea {
+  height: 71px;
+  width: 383px;
+  padding: 15px 0px 0px 10px;
+}
+
+form div>input::placeholder,
+form div>textarea::placeholder {
+  color: white;
+}
+
+form div>select:invalid {
+  color: white;
+}
+
+form div>select option {
+  background: white;
+  color: #303030;
+}
+.cf7resp table,
+.cf7resp table * {
+  border-color: rgb(255, 255, 255);
+}
+
+
+/* médias query*/
+
+
+@media screen and (min-width:350px) and (max-width: 1040px) {
+
+  .cf7resp table,
+  .cf7resp tbody,
+  .cf7resp tr,
+  .cf7resp td {
+    display: block;
+  }
+
+
+form.wpcf7-form {
+  padding: 0;
+  box-shadow: none;
+}
+
+@media screen and (max-width: 480px) {
+
+  .allgout{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .goutons {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  #Bfraise {
+    width: 100%;
+  }
+
+  #Bcitron {
+    width: 100%;
+  }
+
+  #Bpamp {
+    max-width: 100%;
+  }
+
+  #Bfram {
+    max-width: 100%;
+  }
+
+  .elementor-image-box-title {
+    text-align: left;
+    font-size: 18px;
+  }
+
+  .elementor-image-box-description {
+    text-align: left;
+    font-size: 14px;
+  }
+
+  .elementor-29 .elementor-element.elementor-element-4ac7faf .elementor-element-c0928b2 .elementor-element-a0bb308 .elementor-element-9df1c4b {
+    /*! width:var( --container-widget-width, 100% ); */
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+  }
+
+  .button-commander {
+    font-weight: 400;
+    width: 150px;
+    font-size: 13px;
+  }
+
+ 
+  .contactez-nous form {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .elementor-element-5866baa {
+    margin-left: 0px;
+    align-items: left;
+  }
+
+  .elementor-element.elementor-element-bc60581 {
+    max-width: 25%;
+  }
+
+  .contactez-nous input,
+  .contactez-nous textarea {
+    margin-top: 10px;
+    height: 40px;
+    max-width: 250px;
+  }
+
+  .elementor-element-24a377c {
+    width: 50px;
+  }
+
+  form.wpcf7-form input[type="submit"] {
+    padding: 10px;
+    /* Ajout d'un espace dans le bouton sur mobile */
+    font-size: 15px;
+    /* Taille du texte du bouton sur mobile */
+  }
+
+  .cf7resp2 {
+    width: 50%;
+  }
+
+  .cf7resp2 {
+    width: 50%;
+  }
+  .titre h3 {
+    font-size: 25px;
+  }
+
+  .cf7resp-container {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+
+.menu .menu-planty {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.lesgouts {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.elementor-34 .elementor-element .elementor-element-9b00e0e {
+  align-items: center;
+  text-align: center;
+}
+
+.elementor-34 .elementor-element.elementor-element-3c2f1db .elementor-heading-title {
+  font-size: 28px;
+}
+
+.elementor-599 .elementor-element.elementor-element-74b0c9a .elementor-heading-title {
+  font-size: 28px;
+
+}
+
+.elementor-34 .elementor-element.elementor-element-9b00e0e .elementor-heading-title {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.elementor-29 .elementor-element.elementor-element-8da0fe0>div {
+  margin-bottom: 15px;
+  /* Ajouter un espace de 15px entre les deux éléments du bloc */
+}
+
+.elementor-29 .elementor-element.elementor-element-e78b260>.elementor-element-populated {
+  height: 260px;
+  width: 350px;
+}
+
+.elementor-29 .elementor-element.elementor-element-fe90586>.elementor-element-populated {
+  height: 260px;
+  width: 350px;
+}
+
+.elementor-29 .elementor-element.elementor-element-2dd6d1d>.elementor-element-populated {
+  height: 260px;
+  width: 350px;
+}
+
+.elementor-29 .elementor-element.elementor-element-e694036 .elementor-heading-title {
+  font-size: 28px;
+  margin-top: 60px;
+}
+
+.elementor-29 .elementor-element.elementor-element-696e2a7>.elementor-background-overlay {
+  border-radius: 0px;
+  background-color: #ffffff;
+}
+
+.elementor-29 .elementor-element.elementor-element-9aff913.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  margin-bottom: 40px;
+}
+
+.elementor-29 .elementor-element.elementor-element-696e2a7 {
+  margin-bottom: 50px;
+}
+
+.elementor-column .elementor-spacer-inner {
+  margin-bottom: 200px;
+}
+
+.attachment-large .size-large .wp-image-509 {
+  max-height: 50px;
+}
+}
+
+
+
+@media screen and (min-width: 800px) and (max-width: 1040px) {
+
+  .contactez-nous form input,
+  .contactez-nous form textarea {
+    max-width: 100%;
+  }
+
+  .contactez-nous form {
+    max-width: 100%;
+    /* Pour les petits écrans, permettre au formulaire de prendre toute la largeur disponible */
+  }
+
+  .contactez-nous form div {
+    text-align: center;
+    /* Centrer les éléments du formulaire horizontalement pour les petits écrans */
+  }
+
+
+  
+  .cf7resp2 {
+    width: 50%;
+  }
+
+  .cf7resp2 {
+    width: 50%;
+  }
+}
